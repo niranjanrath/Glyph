@@ -1,7 +1,7 @@
 {
-  "name": "Notepad",
-  "short_name": "Notepad",
-  "description": "A lightweight, distraction-free notepad that saves as you type.",
+  "name": "Glyph",
+  "short_name": "Glyph",
+  "description": "A lightweight, distraction-free Markdown Editor that saves as you type.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
