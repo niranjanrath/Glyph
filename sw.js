@@ -1,4 +1,4 @@
-const CACHE_NAME = "notepad-cache-v1";
+const CACHE_NAME = "glyph-cache-v1";
 const ASSETS = [
   "./",
   "./index.html",
